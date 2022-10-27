@@ -4,6 +4,7 @@
   "name": "Git-Test",
   "resources": [
     {"id":{"name":"spr_TestLeft","path":"sprites/spr_TestLeft/spr_TestLeft.yy",},"order":2,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_TestFront","path":"sprites/spr_TestFront/spr_TestFront.yy",},"order":0,},
     {"id":{"name":"spr_TestBack","path":"sprites/spr_TestBack/spr_TestBack.yy",},"order":1,},
     {"id":{"name":"spr_TestRight","path":"sprites/spr_TestRight/spr_TestRight.yy",},"order":3,},
